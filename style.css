@@ -1,0 +1,29 @@
+input{
+    border-color: blue;
+    text-align: center;
+    margin: 10px;
+    font-size: 22px;
+
+}
+
+
+    
+
+h3{
+    text-align: center;
+    text-decoration: crimson;
+}
+
+body{
+    text-align: center;
+}
+#btn_smt{
+    text-align: center;
+    size: 20px;
+    border-color: blueviolet;
+}
+#btn_sort{
+    text-align: center;
+    size: 20px;
+    border-color: blue;
+}
